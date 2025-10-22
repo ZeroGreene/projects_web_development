@@ -1,7 +1,14 @@
 14. Habit Tracker
 
-What: Users log daily habits, track streaks, and set goals.
+What: 
 
-Skills: Date manipulation, progress charts, notifications
+0.Users log daily habits, 
+1.track streaks, 
+2. and set goals.
+
+Skills: 
+A. Date manipulation, 
+B. progress charts, 
+C. notifications
 
 Bonus: Add reminders via browser notifications
