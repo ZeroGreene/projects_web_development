@@ -33,3 +33,21 @@ Netsuite integration
 Redis
 ===================
 Experience with one or more modern web frameworks such as Svelte, Vue.js, Angular, or React.
+
+
+Tech Stack
+
+Frontend: Svelte 5, SvelteKit 2
+Backend: Node.js 22, TypeScript 5.9
+Databases: PostgreSQL 16, Redis 7.4
+Cloud Infrastructure: AWS EC2, ECS/EKS
+
+Preferred Qualifications
+
+Experience working with Svelte and/or Sveltekit.
+Proficiency with TypeScript in building scalable applications.
+Experience with AWS core services (e.g., IAM, EC2, VPC, S3).
+SQL database experience, especially PostgreSQL.
+Knowledge of the full software development lifecycle (project setup, testing, hosting, deployment).
+
+================================
